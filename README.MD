@@ -1,5 +1,5 @@
 # routing-controllers-demo
-I try to implement routing-controllers after learn [《Decorators & metadata reflection in TypeScript》](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
+I try to simple implement [routing-controllers](https://github.com/typestack/routing-controllers) after learn [《Decorators & metadata reflection in TypeScript》](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 
 ## usage
 
