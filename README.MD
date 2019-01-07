@@ -11,6 +11,6 @@ I try to simple implement [routing-controllers](https://github.com/typestack/rou
 // after open your web browser
 > open http://127.0.0.1:3000/
 > open http://127.0.0.1:3000/info
-> open http://127.0.0.1:3000/user/1?uid=2&isVip=
-> open http://127.0.0.1:3000/user/1?uid=2&isVip=1
+> open http://127.0.0.1:3000/user/1?uid=2&isVip=false
+> open http://127.0.0.1:3000/user/1?uid=2&isVip=true
 ```

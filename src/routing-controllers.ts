@@ -107,7 +107,7 @@ function convertType (value: any, type: any): any {
       value = String(value)
     break
     case Boolean:
-      value = Boolean(value)
+      value = value === 'true'
     break
   }
   return value
